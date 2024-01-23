@@ -6,7 +6,7 @@
 <summary>
   필기중
 </summary>
-   <a href="링크"><img src="https://img.shields.io/badge/JAVA-000000?style=flat-square"/></a>
+   <a href="https://www.notion.so/ohgiraffers/JAVA-822f3fb55989404384b1026da2232a9c"><img src="https://img.shields.io/badge/JAVA-000000?style=flat-square"/></a>
 </details>
 
 <details>
