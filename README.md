@@ -1,16 +1,25 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CCEEFF&height=150&section=header&text=&fontSize=20" />
 
-<!--
-**ahmin030/ahmin030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  필기중
+</summary>
+   <a href="링크"><img src="https://img.shields.io/badge/JAVA-000000?style=flat-square"/></a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+  필기 완료
+</summary>
+   -
+</details>
+
+<details>
+<summary>
+  SNS
+</summary>
+   <a href="https://www.instagram.com/jun_may_6?igsh=MWV5YWZxeTZtemt4OA=="><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&logoColor=000000"/></a>
+</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CCEEFF&height=150&section=footer&text=&fontSize=10" />
